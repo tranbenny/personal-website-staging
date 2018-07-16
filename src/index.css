@@ -1,0 +1,25 @@
+
+
+#home-panel {
+  margin-top: 25%;
+  margin-left: 10%;
+}
+
+#tagline {
+  margin-left: 0;
+}
+
+#tagline h6, a {
+  margin-right: 1%;
+}
+
+#tagline a {
+  color: black;
+}
+
+#tagline a:hover {
+  opacity: 0.5;
+}
+
+
+
